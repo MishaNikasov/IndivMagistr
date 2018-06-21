@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IndivMagistr</string>
+    <string name="sin">SIN</string>
+    <string name="cos">COS</string>
+    <string name="ln">LN</string>
+    <string name="tg">TG</string>
+</resources>
